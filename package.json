@@ -1,9 +1,9 @@
 {
-  "name": "Ract-Video-Player",
+  "name": "React-Book-List",
   "version": "1.0.0",
-  "description": "Video Player App Build in React to model Youtube",
+  "description": "App using React and Redux to build a list of books that allows you to view specific info when viewing each book.",
   "main": "index.js",
-  "repository": "git@github.com:broxsonl/React-Video-Player.git",
+  "repository": "git@github.com:broxsonl/ReactRedux-Book-List",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
